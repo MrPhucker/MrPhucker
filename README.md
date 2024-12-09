@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to my account!
+
+I'm a student who has an unquenchable thirst for knowledge.
+
+My future plans/goals will be:
+
+-Make little projects and put them here
+-Contribute to public projects
+-Make new connections 
+-Become a 10x dev :p
 
 <!--
 **MrPhucker/MrPhucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
